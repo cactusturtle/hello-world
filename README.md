@@ -14,8 +14,8 @@ I have also dabbled with HTML and CSS and building simple static pages,
 and I am pretty desperate to learn more about web development.
 
 I am starting to learn how to use github. I have tried a little bit before,  
-but my old laptop had a hard time handling *anything* that wasn't just overheating
- - haha! I have finally gotten a machine that does not crash all the time and 
+but my old laptop had a hard time handling *anything* that wasn't just overheating,
+haha! I have finally gotten a machine that does not crash all the time and 
  moves at more than a dead snails pace. I am very excited to upload my projects 
  for others to see and hopefully critique.
  
